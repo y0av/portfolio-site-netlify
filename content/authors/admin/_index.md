@@ -1,8 +1,8 @@
 ---
 title: admin
-role: admin
-avatar_filename: avatar
-bio: admin
+role: LemonLabs
+avatar_filename: purple-blueish-angular-cut.svg
+bio: Full stack developer
 social:
   - display:
       header: false
