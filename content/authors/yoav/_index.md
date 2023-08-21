@@ -2,7 +2,12 @@
 title: Yoav
 role: Full stack developer
 avatar_filename: green-turq.svg
-social: []
+social:
+  - display:
+      header: false
+    link: yoav.xyz
+    icon_pack: fas
+    icon: earth-americas
 superuser: true
 ---
 <!--StartFragment-->
