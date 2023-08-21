@@ -15,6 +15,6 @@ superuser: true
 A Full-stack lead developer with expertise in IOT sensor based devices,\
 Cross platform mobile applications and gamification.\
 \
-More than 17 years of professional experience in development.
+More than 17 years of professional experience in development. 
 
 <!--EndFragment-->
